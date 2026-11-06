@@ -27,12 +27,12 @@ dependencies:
     sdk: flutter
   flutter_riverpod: ^2.3.6        # State management
   font_awesome_flutter: ^10.4.0   # Icon library
-  intl: ^0.18.0                   # Formatting & localization
+  intl: '>=0.18.0 <1.0.0'         # Formatting & localization
   shared_preferences: ^2.1.1      # Key-value user preferences
   sqflite: ^2.2.8+4               # SQLite database
   path: ^1.8.3                    # Path helper for SQLite
   url_launcher: ^6.1.11           # External URL opener
-  uuid: ^3.0.7                    # Unique UUID v4 generator
+  uuid: '>=3.0.7 <5.0.0'          # Unique UUID generator
   auto_size_text: ^3.0.0          # Responsive dynamic text sizing
 
 dev_dependencies:
