@@ -1,0 +1,6 @@
+{
+  "name": "Reward Randomizer",
+  "description": "Intermittent reinforcement habit tracker app recreating chiralsymmetry/reward-randomizer with probabilistic rewards, countdown timer, and Flutter codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
